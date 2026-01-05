@@ -1,64 +1,23 @@
-<h1 align="center">Hi, I’m Siva 👋</h1>
-<h3 align="center">Full Stack Web Developer | Java • React • Spring Boot</h3>
+<h1 align="center">Hello Fellow < Developers / ></h1>
+<h3 align="center">I'm Siva, a Web Developer learning and building from India 🇮🇳</h3>
 
 <br/>
 
-I like building things that actually work — from clean UIs to reliable backends.  
-Most of my time goes into learning, experimenting, and improving fundamentals.
+I enjoy building web applications and understanding how things work behind the scenes.
+Most of my time goes into improving my frontend skills with React and strengthening my backend knowledge with Spring Boot and Node.js.
 
-I believe consistency matters more than speed, and I try to get a little better every day.
+I like the open-source culture and the idea of learning in public by sharing my progress and projects here on GitHub.
 
-<br/>
-
----
-
-## 🔧 What I Work With
-
-**Languages**
-- Java, JavaScript, Python
-
-**Frontend**
-- HTML5, CSS3, JavaScript  
-- React
-
-**Backend**
-- Node.js, Express.js  
-- Spring, Spring Boot, REST APIs
-
-**Databases**
-- MongoDB, MySQL
-
-**Tools**
-- Git, GitHub, Postman, NPM
-
----
-
-## 📌 What You’ll Find Here
-- Small to medium **learning-focused projects**
-- Backend experiments with **Spring Boot & APIs**
-- Frontend practice with **React and core web tech**
-- Problem-solving and DSA practice
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="380em"
-       src="https://github-readme-stats.vercel.app/api?username=Sivaprava01&show_icons=true&theme=dark&count_private=true"
-       alt="Sivaprava01 GitHub stats" />
-  <img width="380em"
-       src="https://streak-stats.demolab.com?user=Sivaprava01&theme=dark"
-       alt="Sivaprava01 GitHub streak" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-If you’re interested in collaboration, learning together, or discussing tech, feel free to reach out.
+Feel free to explore my repositories — I’m always learning and open to collaboration.
 
 <br/>
 
-<h4 align="center">
-⭐ Take a look at my pinned repositories below ⭐
-</h4>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Sivaprava01)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Sivaprava01.visitor-badge)](https://github.com/Sivaprava01)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sivaprava01)
+
+---
+
+## 🗂️ Selected Work
+
+| Project | Description |
