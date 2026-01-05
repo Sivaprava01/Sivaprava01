@@ -39,5 +39,5 @@ I’m a Full Stack developer focused on building practical web applications and 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivaparava01&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Sivaparava01&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivaprava01&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sivaprava01&theme=dark)
