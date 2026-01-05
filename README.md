@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I’m Siva
 
-<!--
-**Sivaprava01/Sivaprava01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack developer focused on building practical web applications and improving core backend and frontend skills.
 
-Here are some ideas to get you started:
+- 💻 Working with **MERN Stack**
+- 🌱 Learning **Advanced React, Backend Architecture & Spring Boot**
+- 🤝 Open to **Open Source collaboration**
+- 🎯 2025 goal: Build consistent, real-world projects
+- 🤖 Side interest: Exploring AI-powered tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java, JavaScript, Python
+
+**Frontend**
+- HTML5, CSS3, JavaScript  
+- React
+
+**Backend**
+- Node.js, Express.js  
+- Spring, Spring Boot, REST APIs  
+- JWT Authentication
+
+**Databases**
+- MongoDB, MySQL
+
+**Tools**
+- Git, GitHub, NPM, Nodemon
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: *(https://www.linkedin.com/in/sivaprava01/)*
+- Email: *(sivaprava2006@gmail.com)*
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivaparava01&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sivaparava01&theme=dark)
