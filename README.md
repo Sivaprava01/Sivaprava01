@@ -44,15 +44,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sivaprava01&theme=dark&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Sivaprava01&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaprava01&theme=dark&layout=compact)
 
 ---
 
