@@ -3,7 +3,7 @@
 🔭 Currently working on **Full Stack Web Projects (React + Backend)**  
 🌱 Learning **Advanced React, Backend Architecture & Node**  
 👯 Open to collaborating on **Open Source Web Projects**  
-🥅 2025 Goal: Build **consistent, real-world applications**  
+🥅 2026 Goal: Build **consistent, real-world applications**  
 ⚡ I enjoy understanding how systems work end-to-end  
 
 ---
